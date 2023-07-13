@@ -1,0 +1,8 @@
+.*
+!/.gitignore
+bin/
+obj/
+template/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
