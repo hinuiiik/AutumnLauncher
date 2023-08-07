@@ -2,7 +2,7 @@
 using Avalonia.ReactiveUI;
 using System;
 
-namespace AutumnLauncher;
+namespace AutumnLauncher.UI;
 
 class Program
 {

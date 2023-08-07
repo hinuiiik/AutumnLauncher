@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace AutumnLauncher.Views;
+namespace AutumnLauncher.UI.Views;
 
 public partial class MainWindow : Window
 {

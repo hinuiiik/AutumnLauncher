@@ -1,9 +1,9 @@
 using System;
 using Avalonia.Controls;
 using Avalonia.Controls.Templates;
-using AutumnLauncher.ViewModels;
+using AutumnLauncher.UI.ViewModels;
 
-namespace AutumnLauncher;
+namespace AutumnLauncher.UI;
 
 public class ViewLocator : IDataTemplate
 {

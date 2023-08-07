@@ -1,6 +1,6 @@
 ﻿using ReactiveUI;
 
-namespace AutumnLauncher.ViewModels;
+namespace AutumnLauncher.UI.ViewModels;
 
 public class ViewModelBase : ReactiveObject
 {

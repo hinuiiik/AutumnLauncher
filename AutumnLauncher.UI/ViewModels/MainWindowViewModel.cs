@@ -1,4 +1,4 @@
-﻿namespace AutumnLauncher.ViewModels;
+﻿namespace AutumnLauncher.UI.ViewModels;
 
 public class MainWindowViewModel : ViewModelBase
 {
